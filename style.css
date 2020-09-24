@@ -1,0 +1,15 @@
+.border-b{
+    border-bottom: 5px solid green;
+}
+.columns{
+    font-size:50px;
+    line-height:50px;
+    text-align:center
+}
+.columns:hover{
+    background-color: orange;
+}
+.border-r{
+    border-right:5px solid green;
+
+}
